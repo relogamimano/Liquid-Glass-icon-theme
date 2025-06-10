@@ -2,7 +2,7 @@
 
 THEME_DIR=$(cd $(dirname $0) && pwd)
 
-THEME_NAME=Fluent
+THEME_NAME=Liquid-Glass
 _THEME_VARIANTS=('' '-purple' '-pink' '-red' '-orange' '-yellow' '-green' '-grey' '-teal')
 
 if [ ! -z "${COMPA_VARIANTS:-}" ]; then

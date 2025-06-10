@@ -96,11 +96,11 @@ fi
 # generate pixmaps from svg source
 SRC=$PWD/src
 
-THEME="Fluent Cursors"
+THEME="Liquid-Glass Cursors"
 BUILD="$SRC/../dist"
 create svg
 
-THEME="Fluent-dark Cursors"
+THEME="Liquid-Glass-dark Cursors"
 BUILD="$SRC/../dist-dark"
 create svg-white
 

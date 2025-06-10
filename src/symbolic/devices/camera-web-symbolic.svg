@@ -1,20 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; }</style>
- </defs>
- <g fill="#363636" stroke-linecap="round" stroke-linejoin="round">
-  <path d="m8 1a6 6 0 0 0-6 6 6 6 0 0 0 6 6 6 6 0 0 0 6-6 6 6 0 0 0-6-6zm0 1a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5z" stroke-width="1.0909"/>
-  <path d="m5 14c-1.108 0-2 0.892-2 2h1c0-0.554 0.446-1 1-1h6c0.554 0 1 0.446 1 1h1c0-1.108-0.892-2-2-2h-6z"/>
-  <path d="m7.9492 4a3 3 0 0 0-2.9492 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-0.050781 0zm0.050781 2a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z" stroke-width="1.5"/>
- </g>
+<svg height="16px" viewBox="0 0 16 16" width="16px" xmlns="http://www.w3.org/2000/svg">
+    <path d="m 7 3.003906 c -1.644531 0 -3 1.355469 -3 3 v 1.425782 l -3.320312 -3.433594 h -0.679688 v 9 h 0.644531 l 3.355469 -3.492188 v 1.5 c 0 1.644532 1.355469 3 3 3 h 6 c 1.644531 0 3 -1.355468 3 -3 v -5 c 0 -1.644531 -1.355469 -3 -3 -3 z m 0 2 h 6 c 0.570312 0 1 0.429688 1 1 v 5 c 0 0.570313 -0.429688 1 -1 1 h -6 c -0.570312 0 -1 -0.429687 -1 -1 v -5 c 0 -0.570312 0.429688 -1 1 -1 z m 0 0" fill="#2e3434"/>
 </svg>

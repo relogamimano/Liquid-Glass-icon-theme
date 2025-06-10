@@ -10,16 +10,16 @@ else
   DEST_DIR="$HOME/.local/share/icons"
 fi
 
-if [ -d "$DEST_DIR/Fluent-cursors" ]; then
-  rm -r "$DEST_DIR/Fluent-cursors"
+if [ -d "$DEST_DIR/Liquid-Glass-cursors" ]; then
+  rm -r "$DEST_DIR/Liquid-Glass-cursors"
 fi
 
-if [ -d "$DEST_DIR/Fluent-dark-cursors" ]; then
-  rm -r "$DEST_DIR/Fluent-dark-cursors"
+if [ -d "$DEST_DIR/Liquid-Glass-dark-cursors" ]; then
+  rm -r "$DEST_DIR/Liquid-Glass-dark-cursors"
 fi
 
-cp -r dist $DEST_DIR/Fluent-cursors
-cp -r dist-dark $DEST_DIR/Fluent-dark-cursors
+cp -r dist $DEST_DIR/Liquid-Glass-cursors
+cp -r dist-dark $DEST_DIR/Liquid-Glass-dark-cursors
 
 echo "Finished..."
 

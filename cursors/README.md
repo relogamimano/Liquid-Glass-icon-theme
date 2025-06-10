@@ -1,8 +1,10 @@
-# Fluent cursors
+# Liquid-Glass cursors
+
 This is an x-cursor theme inspired by Qogir theme and
 based on [capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors).
 
 ## Installation
+
 To install the cursor theme simply copy the compiled theme to your icons
 directory. For local user installation:
 
@@ -34,5 +36,6 @@ This will generate the pixmaps and appropriate aliases.
 The freshly compiled cursor theme will be located in `dist/`
 
 ## Preview
+
 ![01](preview-01.png)
 ![02](preview-02.png)
